@@ -1,7 +1,7 @@
 {
-  "name": "cz-conventional-changelog",
-  "version": "0.0.0-semantically-released.0",
-  "description": "Commitizen adapter following the conventional-changelog format.",
+  "name": "cz-simple-changelog",
+  "version": "0.0.1",
+  "description": "Simple commitizen adapter almost following the conventional-changelog format.",
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
@@ -9,10 +9,10 @@
     "format": "prettier --write *.js",
     "semantic-release": "semantic-release"
   },
-  "homepage": "https://github.com/commitizen/cz-conventional-changelog",
+  "homepage": "https://github.com/igorcaldeira/cz-simple-changelog",
   "repository": {
     "type": "git",
-    "url": "https://github.com/commitizen/cz-conventional-changelog.git"
+    "url": "https://github.com/igorcaldeira/cz-simple-changelog.git"
   },
   "engineStrict": true,
   "engines": {
