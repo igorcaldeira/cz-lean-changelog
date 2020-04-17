@@ -1,6 +1,6 @@
 {
   "name": "cz-lean-changelog",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cz-lean-changelog adapter almost following the conventional-changelog format.",
   "main": "index.js",
   "scripts": {
