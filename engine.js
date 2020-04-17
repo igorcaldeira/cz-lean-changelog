@@ -112,6 +112,13 @@ module.exports = function (options) {
           },
         },
         {
+          type: 'input',
+          name: 'body',
+          message:
+            'Provide a longer description of the change: (optional, enter to skip)\n',
+          default: options.defaultBody,
+        },
+        {
           type: 'confirm',
           name: 'isBreaking',
           message: 'Are there any breaking changes?',
