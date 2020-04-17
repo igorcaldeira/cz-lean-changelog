@@ -1,7 +1,7 @@
 {
-  "name": "cz-simple-changelog",
+  "name": "cz-lean-changelog",
   "version": "0.0.1",
-  "description": "Simple commitizen adapter almost following the conventional-changelog format.",
+  "description": "cz-lean-changelog adapter almost following the conventional-changelog format.",
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
@@ -9,10 +9,10 @@
     "format": "prettier --write *.js",
     "semantic-release": "semantic-release"
   },
-  "homepage": "https://github.com/igorcaldeira/cz-simple-changelog",
+  "homepage": "https://github.com/igorcaldeira/cz-lean-changelog",
   "repository": {
     "type": "git",
-    "url": "https://github.com/igorcaldeira/cz-simple-changelog.git"
+    "url": "https://github.com/igorcaldeira/cz-lean-changelog.git"
   },
   "engineStrict": true,
   "engines": {
